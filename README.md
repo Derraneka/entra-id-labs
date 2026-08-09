@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Microsoft-Entra%20ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Entra ID">
   <img src="https://img.shields.io/badge/License-P2-5E5E5E?style=flat-square" alt="P2">
   <img src="https://img.shields.io/badge/Exam-SC--300-orange?style=flat-square" alt="SC-300">
-  <img src="https://img.shields.io/badge/Labs-7-success?style=flat-square" alt="7 labs">
+  <img src="https://img.shields.io/badge/Labs-7-success?style=flat-square" alt="8 labs">
 </p>
 
 ---
@@ -89,6 +89,7 @@ These aren't seven independent tutorials. Several build on a single distinction 
 ---
 
 ## Skills demonstrated
+**Automation** · PowerShell scripting · Microsoft Graph API · REST endpoint integration · structured evidence generation · idempotent runbooks
 
 **Identity lifecycle** · Joiner/Mover/Leaver design · attribute-driven dynamic membership · privilege creep remediation · session revocation · automation boundaries
 
