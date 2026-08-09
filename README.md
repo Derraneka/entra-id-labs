@@ -77,7 +77,7 @@ Environment, personas, and standing business rules → [`meridian-defense-soluti
 
 ## A design argument running through the labs
 
-These aren't seven independent tutorials. Several build on a single distinction established early and paid off repeatedly:
+These aren't eight independent tutorials. Several build on a single distinction established early and paid off repeatedly:
 
 > **Derived access is a fact. Approved access is a decision.**
 
@@ -85,7 +85,7 @@ These aren't seven independent tutorials. Several build on a single distinction 
 - **[Lab 2.3](lab-2-03/)** proves why it matters: when Dana transfers, derived access recalculates itself and approved access deliberately persists — because automation can't know whether her project finished.
 - **[Lab 7.2](lab-7-02/)** closes the loop: if automation won't revoke approved access, quarterly certification must, or "we don't automate that" quietly becomes "we never revoke that."
 - **[Lab 6.1](lab-6-01/)** extends it outward: the same department attribute becomes a SAML claim, so the application authorizes from the directory's source of truth instead of maintaining a copy that drifts.
-
+- **[Lab 2.4](lab-2-04/)** marks the other boundary: where the *timing* is the vulnerability rather than the judgement, automation isn't optional. A manual offboarding left tokens live for 2m41s; a script closed it to 0.463s.
 ---
 
 ## Skills demonstrated
