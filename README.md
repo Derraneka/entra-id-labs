@@ -41,7 +41,7 @@ Environment, personas, and standing business rules → [`meridian-defense-soluti
 |:--|:--|:--|
 | [2.1 — Joiner and Leaver](lab-2-01/) | Provisioning, session revocation, audit evidence | Measured a 2m41s window where a disabled account still held valid tokens |
 | [2.3 — Mover](lab-2-03/) | Dynamic groups, privilege creep | A department transfer changed nothing until membership became attribute-driven |
-
+| [2.4 — Offboarding Automation with Microsoft Graph API](lab-2-04/) | PowerShell, Graph REST API, evidence artifacts | Closed the 2m41s exposure window to 0.463s — a 348× reduction |
 ### Access Control
 
 | Lab | Focus | Key finding |
