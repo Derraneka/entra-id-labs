@@ -1,5 +1,5 @@
 <h1 align="center">Microsoft Entra ID — Enterprise IAM Labs</h1>
-**Automation** · PowerShell scripting · Microsoft Graph API · REST endpoint integration · structured evidence generation · idempotent runbooks
+
 
 <p align="center">
   <em>Hands-on identity engineering in a production-style tenant for a simulated<br>
