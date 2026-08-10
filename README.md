@@ -12,17 +12,11 @@
   <img src="https://img.shields.io/badge/Exam-SC--300-..." alt="SC-300">
   <img src="https://img.shields.io/badge/Labs-9-..." alt="9 labs">
 </p>
-
 ---
 
 ## What this is
 
 ---
-
-## What this is
----
-
-## What this is
 
 Most IAM lab write-ups stop at "here's where you click." These don't.
 
