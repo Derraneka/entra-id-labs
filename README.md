@@ -65,6 +65,7 @@ Environment, personas, and standing business rules → [`meridian-defense-soluti
 
 | Lab | Focus | Key finding |
 |:--|:--|:--|
+| [7.1 — Entitlement Management: Access Packages](lab-7-01/) | Self-service request, approval, external identity governance | A real guest identity proved the `userType` guardrail from Lab 2.3 actually holds |
 | [7.2 — Access Reviews](lab-7-02/) | Quarterly certification, evidence export | Recommendations measure sign-in activity, not business need |
 
 ### Monitoring & Response
