@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft-Entra%20ID-..." alt="Entra ID">
-  <img src="https://img.shields.io/badge/License-P2-..." alt="P2">
-  <img src="https://img.shields.io/badge/Exam-SC--300-..." alt="SC-300">
-  <img src="https://img.shields.io/badge/Labs-9-..." alt="9 labs">
+  <img src="https://img.shields.io/badge/Microsoft-Entra%20ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Entra ID">
+  <img src="https://img.shields.io/badge/License-P2-5E5E5E?style=flat-square" alt="P2">
+  <img src="https://img.shields.io/badge/Exam-SC--300-orange?style=flat-square" alt="SC-300">
+  <img src="https://img.shields.io/badge/Labs-9-success?style=flat-square" alt="9 labs">
 </p>
 
 > **Companion repo:** [**Okta-Labs**](https://github.com/Derraneka/Okta-Labs) — the same lifecycle, RBAC, and federation problems solved on Okta, including SCIM provisioning and Org2Org federation.
