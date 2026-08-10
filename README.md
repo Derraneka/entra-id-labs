@@ -78,16 +78,18 @@ Environment, personas, and standing business rules → [`meridian-defense-soluti
 
 ## A design argument running through the labs
 
-These aren't eight independent tutorials. Several build on a single distinction established early and paid off repeatedly:
+These aren't nine independent tutorials. Several build on a single distinction established early and paid off repeatedly:
 
 > **Derived access is a fact. Approved access is a decision.**
 
 - **[Lab 2.1](lab-2-01/)** draws the line: department membership is derived from an attribute; CAD file share access was granted by a human.
 - **[Lab 2.3](lab-2-03/)** proves why it matters: when Dana transfers, derived access recalculates itself and approved access deliberately persists — because automation can't know whether her project finished.
+- **[Lab 7.1](lab-7-01/)** builds the front door: approved access gets requested, justified against a contract number, approved by a named sponsor, and given an expiry date — so "a human decided" becomes a record rather than a memory.
 - **[Lab 7.2](lab-7-02/)** closes the loop: if automation won't revoke approved access, quarterly certification must, or "we don't automate that" quietly becomes "we never revoke that."
 - **[Lab 6.1](lab-6-01/)** extends it outward: the same department attribute becomes a SAML claim, so the application authorizes from the directory's source of truth instead of maintaining a copy that drifts.
 - **[Lab 2.4](lab-2-04/)** marks the other boundary: where the *timing* is the vulnerability rather than the judgement, automation isn't optional. A manual offboarding left tokens live for 2m41s; a script closed it to 0.463s.
----
+
+The argument gets tested in [Lab 7.1](lab-7-01/), where a real external identity enters the tenant through an approved request. The `userType -eq "Member"` guardrail written back in Lab 2.3 holds: the guest receives exactly the package's scope and is correctly excluded from department-derived access. **Guardrails that are never exercised are assumptions.**
 
 ## Skills demonstrated
 **Automation** · PowerShell scripting · Microsoft Graph API · REST endpoint integration · structured evidence generation · idempotent runbooks
