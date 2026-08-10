@@ -13,7 +13,9 @@
   <img src="https://img.shields.io/badge/Labs-9-..." alt="9 labs">
 </p>
 
-> **Companion repo:** [**Okta-Labs**](https://github.com/Derraneka/Okta-Labs) — the same lifecycle, RBAC, and federation problems solved on Okta, including SCIM provisioning and Org2Org federation.
+---
+
+## What this is
 
 ---
 
