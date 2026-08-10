@@ -102,7 +102,8 @@ The argument gets tested in [Lab 7.1](lab-7-01/), where a real external identity
 
 **Federation** · SAML 2.0 · claims and claim transformations · assertion troubleshooting · certificate lifecycle and rollover · NameID format trade-offs
 
-**Governance** · Access certification · reviewer model design · least privilege · audit evidence collection · NIST 800-53 / CMMC control mapping
+**External identity** · B2B guest lifecycle · connected organizations · sponsored access with expiry · governed vs. ungoverned guests
+
 
 ---
 
