@@ -111,11 +111,16 @@ entra-id-labs/
 ├── meridian-defense-solutions.md    Org profile, personas, business rules
 ├── lab-2-01/                        Joiner and Leaver
 ├── lab-2-03/                        Mover
+├── lab-2-04/                        Offboarding automation (PowerShell + Graph API)
 ├── lab-4-01/                        Conditional Access baseline
 ├── lab-5-01/                        Privileged Identity Management
 ├── lab-6-01/                        SAML 2.0 SSO
+├── lab-7-01/                        Entitlement management / access packages
 ├── lab-7-02/                        Access reviews
 └── lab-8-02/                        Identity Protection
+```
+
+Each lab folder contains a `README.md` write-up and a `screenshots/` directory of configuration and validation evidence. Lab 2.4 also includes a `scripts/` directory.
 ```
 
 Each lab folder contains a `README.md` write-up and a `screenshots/` directory of configuration and validation evidence.
