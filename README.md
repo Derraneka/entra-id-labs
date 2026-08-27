@@ -134,11 +134,15 @@ Each lab folder contains a `README.md` write-up and a `screenshots/` directory o
 
 ---
 
+Each lab folder contains a `README.md` write-up and a `screenshots/` directory of configuration and validation evidence. Lab 2.4 also includes a `scripts/` directory.
+
+---
+
 ## About
 
-Built by **Derra Hewlett** — U.S. Air Force veteran (4 years, cyber operations) working in Identity and Access Management.
+Built by **Derra Hewlett** — U.S. Air Force veteran working in Identity and Access Management.
 
-**Certifications** · Okta Certified Administrator · Okta Certified Professional · CompTIA Security+ (SY0-701) · Microsoft SC-300 *(in progress)*
+**Certifications** · Okta Certified Professional · CompTIA Security+ (SY0-701) · Microsoft SC-300 *(in progress)*
 **Education** · M.S. Cybercrime Investigation · B.S. Criminal Justice
 **Clearance** · Active TS/SCI
 
