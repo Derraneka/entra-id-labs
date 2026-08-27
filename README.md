@@ -128,13 +128,6 @@ entra-id-labs/
 ```
 
 Each lab folder contains a `README.md` write-up and a `screenshots/` directory of configuration and validation evidence. Lab 2.4 also includes a `scripts/` directory.
-```
-
-Each lab folder contains a `README.md` write-up and a `screenshots/` directory of configuration and validation evidence.
-
----
-
-Each lab folder contains a `README.md` write-up and a `screenshots/` directory of configuration and validation evidence. Lab 2.4 also includes a `scripts/` directory.
 
 ---
 
@@ -147,5 +140,3 @@ Built by **Derra Hewlett** — U.S. Air Force veteran working in Identity and Ac
 **Clearance** · Active TS/SCI
 
 ---
-
-<sub>All environments, users, and organizations here are fictional and built in an isolated lab tenant. No production or client data is represented.</sub>
