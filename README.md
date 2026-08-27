@@ -135,8 +135,8 @@ Each lab folder contains a `README.md` write-up and a `screenshots/` directory o
 
 Built by **Derra Hewlett** — U.S. Air Force veteran working in Identity and Access Management.
 
-**Certifications** · Okta Certified Professional · CompTIA Security+ (SY0-701) · Microsoft SC-300 *(in progress)*
-**Education** · M.S. Cybercrime Investigation · B.S. Criminal Justice
+**Certifications** · Okta Certified Professional · CompTIA Security+ (SY0-701) · Microsoft SC-300 *(in progress)*  
+**Education** · M.S. Cybercrime Investigation · B.S. Criminal Justice  
 **Clearance** · Active TS/SCI
 
 ---
